@@ -11,4 +11,4 @@ formatting.php - Formatting tools and shortcodes to display information saved in
 ### Wordpress Theme Development
 
 style.css - style sheet for mistyffiction.com <br />
-functions.php - updates for -child theme functionality <br />
+functions.php - updates for <a href="https://codex.wordpress.org/Child_Themes">-child theme</a> functionality <br />
